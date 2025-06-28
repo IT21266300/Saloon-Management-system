@@ -174,9 +174,7 @@ npm run build
 ```
 
 
-## 📝 License
 
-[Add your license information here]
 
 *Built with ❤️ for the beauty industry*
 
